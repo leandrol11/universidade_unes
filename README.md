@@ -1,0 +1,1 @@
+1o Projeto do curso de desenvolvimento web, que consiste em um site simples de layout fixo de uma universidade. Em sua construção foram utilizados apenas conhecimentos básicos em HTML.
